@@ -1,7 +1,7 @@
 # 💫 About Me:
-* I’m a chemist turned data scientist.
-* I specialize in making data dashboards and data visualization.
-* Check more details below. 
+* I’m a chemist/data scientist.
+* I specialize in making data dashboards, data analysis, and data visualization.
+* My education includes: Dual B.S. (Chemistry & Math/Econ) from Linfield College, and an M.S. in Chemistry from the University of Oregon.
 
 
 ## 🌐 Socials:
