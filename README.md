@@ -1,7 +1,7 @@
 # 💫 About Me:
 * I’m a chemist/data scientist.
 * I specialize in making data dashboards, data analysis, and data visualization.
-* My education includes: Dual B.S. (Chemistry & Math/Econ) from Linfield College, and an M.S. in Chemistry from the University of Oregon.
+* My education includes a dual B.S. (Chemistry & Math/Econ) from Linfield College, and an M.S. in Chemistry from the University of Oregon.
 
 
 ## 🌐 Socials:
