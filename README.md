@@ -1,6 +1,7 @@
 # 💫 About Me:
-* I’m a chemist/data scientist.
-* I specialize in making data dashboards, data analysis, and data visualization.
+* Lead programmer at Hess Services Inc.
+* I specialize in designing server-based web applications, using cloud systems like AWS, and developing solutions that integrate with ERP systems like Made2Manage.
+* I offer complete solutions with my skills in software development, analysis, and data visualization.
 * My education includes a dual B.S. (Chemistry & Math/Econ) from Linfield College, and an M.S. in Chemistry from the University of Oregon.
 
 
