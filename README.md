@@ -1,8 +1,8 @@
 # 💫 About Me:
 * Lead programmer at Hess Services Inc.
-* I specialize in designing server-based web applications, using cloud systems like AWS, and developing solutions that integrate with ERP systems like Made2Manage.
-* I offer complete solutions with my skills in software development, analysis, and data visualization.
-* My education includes a dual B.S. (Chemistry & Math/Econ) from Linfield College, and an M.S. in Chemistry from the University of Oregon.
+* I specialize in developing secure AI applications (both offline and API-based), server-based web applications, and custom integrations for ERP systems like Made2Manage and e-commerce platforms like BigCommerce.
+* Specialties: Local LLM models, OpenAI's LLMs, AWS cloud services, Made2Manage ERP Web API, and BigCommerce.
+* Education: Dual B.S. (Chemistry & Math/Econ) from Linfield College, M.S. in Chemistry from the University of Oregon.
 
 
 ## 🌐 Socials:
