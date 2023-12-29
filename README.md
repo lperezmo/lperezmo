@@ -4,6 +4,9 @@
 * Specialties: Local LLM models, OpenAI's LLMs, AWS cloud services, Made2Manage ERP Web API, and BigCommerce.
 * Education: Dual B.S. (Chemistry & Math/Econ) from Linfield College, M.S. in Chemistry from the University of Oregon.
 
+## Websites:
+* [Hess Services Store](https://hess-services.store)
+* [Heartland Fiberglass Supply](https://heartlandfiberglasssupply.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-perez-morales-763a951b1) 
