@@ -1,23 +1,157 @@
-# 💫 About Me:
-* Lead programmer at Hess Services Inc.
-* I specialize in developing secure AI applications (both offline and API-based), server-based web applications, and custom integrations for ERP systems like Made2Manage and e-commerce platforms like BigCommerce.
-* Specialties: Local LLM models, OpenAI's LLMs, AWS cloud services, Made2Manage ERP Web API, and BigCommerce.
-* Education: Dual B.S. (Chemistry & Math/Econ) from Linfield College, M.S. in Chemistry from the University of Oregon.
+### About Me
 
-## Websites:
-* [Hess Services Store](https://hess-services.store)
-* [Heartland Fiberglass Supply](https://heartlandfiberglasssupply.com)
+<p align="left">
+  <a href="https://github.com/Lperezmo"><img src="https://img.shields.io/github/followers/Lperezmo?label=Followers&style=flat&color=236ad3" alt="Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=Lperezmo&style=flat&color=blueviolet" alt="Profile views">
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-perez-morales-763a951b1) 
+Chemist-turned-developer working as Software Developer at **Hess Services Inc.** I build internal tools, ERP integrations, and automation systems for manufacturing environments. My day-to-day spans Python and Rust CLI tools, Streamlit dashboards, AWS infrastructure, and database work across SQL Server and MySQL.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lperezmo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lperezmo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lperezmo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Background:** Dual B.S. in Chemistry & Mathematics from Linfield College, M.S. in Chemistry from the University of Oregon.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lperezmo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,aws,mysql,docker,linux,git,vscode,azure,bash&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/BigCommerce-121118?style=flat&logo=bigcommerce&logoColor=white" alt="BigCommerce">
+  <img src="https://img.shields.io/badge/Made2Manage-ERP-0078D4?style=flat" alt="M2M ERP">
+  <img src="https://img.shields.io/badge/PyO3-Rust%2FPython-000000?style=flat&logo=rust&logoColor=white" alt="PyO3">
+  <img src="https://img.shields.io/badge/AWS%20SES%20%7C%20SQS%20%7C%20Lambda%20%7C%20S3-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS Services">
+</p>
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">pyofiles</h3>
+      <p align="center">
+        <a href="https://github.com/Lperezmo/pyofiles">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        Unified Rust/PyO3 Python package consolidating fast file system utilities — find, size, and index operations at native speed.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/PyO3-Maturin-orange?style=flat">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">st-mui</h3>
+      <p align="center">
+        <a href="https://github.com/Lperezmo/st-mui">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        MUI X components for Streamlit — date pickers, time pickers, range selectors, and tree views built with Components v2.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">GoogleNotesMCP</h3>
+      <p align="center">
+        <a href="https://github.com/Lperezmo/GoogleNotesMCP">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        MCP server for Google Keep — search, create, edit, and manage notes and lists via Claude Code.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/FastMCP-MCP-58A6FF?style=flat">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">sms-helper</h3>
+      <p align="center">
+        <a href="https://github.com/Lperezmo/sms-helper">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        AI-powered, function-calling text assistant written in Python and hosted through Azure Functions.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">embeddings-extraction</h3>
+      <p align="center">
+        <a href="https://github.com/Lperezmo/embeddings-extraction">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        Extract, organize, and embed data from HTML/PDF documents for context-augmented LLM queries.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">clblast-llama-cpp-python</h3>
+      <p align="center">
+        <a href="https://github.com/Lperezmo/clblast-llama-cpp-python">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        Guide to compile llama.cpp with CLBlast GPU acceleration for older AMD GPUs lacking ROCm support.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenCL-CLBlast-red?style=flat">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lperezmo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lperezmo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="60%" alt="GitHub Stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lperezmo&theme=github-dark-blue&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lperezmo&hide_border=true" width="60%" alt="GitHub Streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lperezmo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lperezmo&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" width="60%" alt="Top Languages" />
+  </picture>
+</p>
