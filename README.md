@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Lperezmo&style=flat&color=blueviolet" alt="Profile views">
 </p>
 
-Chemist-turned-developer working as Software Developer at **Hess Services Inc.** I build internal tools, ERP integrations, and automation systems for manufacturing environments. My day-to-day spans Python and Rust CLI tools, Streamlit dashboards, AWS infrastructure, and database work across SQL Server and MySQL.
+Chemist-turned-developer working as Software Developer at **Hess Services Inc.** I build internal tools, ERP integrations, and automation systems for manufacturing environments. My day-to-day spans Python and Rust CLI tools, dashboards, AWS infrastructure, and database work across SQL Server and MySQL.
 
 **Background:** Dual B.S. in Chemistry & Mathematics from Linfield College, M.S. in Chemistry from the University of Oregon.
 
@@ -67,18 +67,18 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">GoogleNotesMCP</h3>
+      <h3 align="center">clblast-llama-cpp-python</h3>
       <p align="center">
-        <a href="https://github.com/Lperezmo/GoogleNotesMCP">
+        <a href="https://github.com/Lperezmo/clblast-llama-cpp-python">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
       </p>
       <p align="center">
-        MCP server for Google Keep — search, create, edit, and manage notes and lists via Claude Code.
+        Guide to compile llama.cpp with CLBlast GPU acceleration for older AMD GPUs lacking ROCm support.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/FastMCP-MCP-58A6FF?style=flat">
+        <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenCL-CLBlast-red?style=flat">
       </p>
     </td>
   </tr>
@@ -114,18 +114,18 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">clblast-llama-cpp-python</h3>
+      <h3 align="center">florisboard</h3>
       <p align="center">
-        <a href="https://github.com/Lperezmo/clblast-llama-cpp-python">
+        <a href="https://github.com/lperezmo/florisboard">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
       </p>
       <p align="center">
-        Guide to compile llama.cpp with CLBlast GPU acceleration for older AMD GPUs lacking ROCm support.
+        Fork of FlorisBoard with custom autocorrect and text-to-speech integration added to the open-source Android keyboard.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenCL-CLBlast-red?style=flat">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
       </p>
     </td>
   </tr>
