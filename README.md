@@ -14,14 +14,20 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
 ### Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,aws,mysql,docker,linux,git,vscode,azure,bash&theme=dark" alt="Tech Stack" />
-  </a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" /></a>
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
+  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
+  <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" /></a>
 </p>
 
 <p align="center">
   <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"></a>
-  <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"></a>
   <a href="https://www.bigcommerce.com"><img src="https://img.shields.io/badge/BigCommerce-121118?style=flat&logo=bigcommerce&logoColor=white" alt="BigCommerce"></a>
   <a href="https://www.aptean.com/en-US/solutions/erp/aptean-made2manage-erp"><img src="https://img.shields.io/badge/Made2Manage-ERP-0078D4?style=flat" alt="M2M ERP"></a>
   <a href="https://pyo3.rs"><img src="https://img.shields.io/badge/PyO3-Rust%2FPython-000000?style=flat&logo=rust&logoColor=white" alt="PyO3"></a>
