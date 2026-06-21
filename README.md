@@ -151,21 +151,23 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lperezmo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Lperezmo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="60%" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img src="./profile/stats-light.svg" width="60%" alt="GitHub Stats" />
   </picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lperezmo&theme=github-dark-blue&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lperezmo&hide_border=true" width="60%" alt="GitHub Streak" />
-  </picture>
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+      <img src="./profile/streak-light.svg" width="60%" alt="GitHub Streak" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lperezmo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lperezmo&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" width="60%" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img src="./profile/top-langs-light.svg" width="60%" alt="Top Languages" />
   </picture>
 </p>
