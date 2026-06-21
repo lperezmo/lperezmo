@@ -41,14 +41,29 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">pyofiles</h3>
+      <h3 align="center">real-time-translator</h3>
       <p align="center">
-        <a href="https://github.com/Lperezmo/pyofiles">
+        <a href="https://github.com/lperezmo/real-time-translator">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
       </p>
       <p align="center">
-        Unified Rust/PyO3 Python package consolidating fast file system utilities — find, size, and index operations at native speed.
+        Real-time speech translation. Whisper transcribes the audio, translates it, and Google TTS speaks the result back.
+      </p>
+      <p align="center">
+        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+        <a href="https://openai.com"><img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white"></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">pyofiles</h3>
+      <p align="center">
+        <a href="https://github.com/lperezmo/pyofiles">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        Fast, Rust-powered file operations for Python. Find, size, and index files at native speed through a unified PyO3 package.
       </p>
       <p align="center">
         <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"></a>
@@ -57,6 +72,27 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
       </p>
     </td>
     <td width="33%" valign="top">
+      <h3 align="center">drone-vantage</h3>
+      <p align="center">
+        <a href="https://github.com/lperezmo/drone-vantage">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+        <a href="https://drone-vantage.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        Find the best drone launch spots and where you can legally fly within line of sight. Viewshed over real elevation and satellite tree cover, with FAA airspace ceilings.
+      </p>
+      <p align="center">
+        <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"></a>
+        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
+        <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3 align="center">st-rsuite</h3>
       <p align="center">
         <a href="https://github.com/lperezmo/st-rsuite">
@@ -64,7 +100,7 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
         </a>
       </p>
       <p align="center">
-        RSuite date & time components for Streamlit — date pickers, time pickers, and range selectors built with Components v2 (fully open source).
+        RSuite date and time components for Streamlit. Date pickers, time pickers, and range selectors built with Components v2 (fully open source).
       </p>
       <p align="center">
         <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
@@ -73,41 +109,28 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">clblast-llama-cpp-python</h3>
+      <h3 align="center">st-custom-static</h3>
       <p align="center">
-        <a href="https://github.com/Lperezmo/clblast-llama-cpp-python">
+        <a href="https://github.com/lperezmo/st-custom-static">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+        <a href="https://huggingface.co/spaces/lperezmo/st-custom-static">
+          <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=flat&logo=huggingface&logoColor=black">
         </a>
       </p>
       <p align="center">
-        Guide to compile llama.cpp with CLBlast GPU acceleration for older AMD GPUs lacking ROCm support.
+        Drop-in replacements for Streamlit's default loading animation. Swap the running man for one of 13 polished alternatives in seconds.
       </p>
       <p align="center">
-        <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=cplusplus&logoColor=white"></a>
-        <a href="https://github.com/CNugteren/CLBlast"><img src="https://img.shields.io/badge/OpenCL-CLBlast-red?style=flat"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">sms-helper</h3>
-      <p align="center">
-        <a href="https://github.com/Lperezmo/sms-helper">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p align="center">
-        AI-powered, function-calling text assistant written in Python and hosted through Azure Functions.
-      </p>
-      <p align="center">
+        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
         <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://azure.microsoft.com/products/functions"><img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white"></a>
+        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
       </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">embeddings-extraction</h3>
       <p align="center">
-        <a href="https://github.com/Lperezmo/embeddings-extraction">
+        <a href="https://github.com/lperezmo/embeddings-extraction">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
       </p>
@@ -117,21 +140,6 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
       <p align="center">
         <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
         <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"></a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">florisboard</h3>
-      <p align="center">
-        <a href="https://github.com/lperezmo/florisboard">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p align="center">
-        Fork of FlorisBoard with custom autocorrect and text-to-speech integration added to the open-source Android keyboard.
-      </p>
-      <p align="center">
-        <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"></a>
-        <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"></a>
       </p>
     </td>
   </tr>
