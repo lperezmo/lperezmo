@@ -41,34 +41,19 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">real-time-translator</h3>
+      <h3 align="center">st-rsuite</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/real-time-translator">
+        <a href="https://github.com/lperezmo/st-rsuite">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
       </p>
       <p align="center">
-        Real-time speech translation. Whisper transcribes the audio, translates it, and Google TTS speaks the result back.
+        RSuite date and time components for Streamlit. Date pickers, time pickers, and range selectors built with Components v2 (fully open source).
       </p>
       <p align="center">
+        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
         <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://openai.com"><img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white"></a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">pyofiles</h3>
-      <p align="center">
-        <a href="https://github.com/lperezmo/pyofiles">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p align="center">
-        Fast, Rust-powered file operations for Python. Find, size, and index files at native speed through a unified PyO3 package.
-      </p>
-      <p align="center">
-        <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"></a>
-        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://pyo3.rs"><img src="https://img.shields.io/badge/PyO3-Maturin-orange?style=flat"></a>
+        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -90,24 +75,6 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
         <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"></a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">st-rsuite</h3>
-      <p align="center">
-        <a href="https://github.com/lperezmo/st-rsuite">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p align="center">
-        RSuite date and time components for Streamlit. Date pickers, time pickers, and range selectors built with Components v2 (fully open source).
-      </p>
-      <p align="center">
-        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
-      </p>
-    </td>
     <td width="33%" valign="top">
       <h3 align="center">st-custom-static</h3>
       <p align="center">
@@ -127,19 +94,55 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
         <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
-      <h3 align="center">embeddings-extraction</h3>
+      <h3 align="center">streamlit-aggrid-v2</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/embeddings-extraction">
+        <a href="https://github.com/lperezmo/streamlit-aggrid-v2">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+        <a href="https://st-aggrid.streamlit.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        AG Grid tables for Streamlit. Interactive editing, filtering, sorting, and grouping, built on AG Grid v34 with Custom Components v2.
+      </p>
+      <p align="center">
+        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
+        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">clblast-llama-cpp-python</h3>
+      <p align="center">
+        <a href="https://github.com/lperezmo/clblast-llama-cpp-python">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
       </p>
       <p align="center">
-        Extract, organize, and embed data from HTML/PDF documents for context-augmented LLM queries.
+        Guide to compile llama.cpp with CLBlast GPU acceleration for older AMD GPUs lacking ROCm support.
+      </p>
+      <p align="center">
+        <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=cplusplus&logoColor=white"></a>
+        <a href="https://github.com/CNugteren/CLBlast"><img src="https://img.shields.io/badge/OpenCL-CLBlast-red?style=flat"></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">high-freq-forex-bot</h3>
+      <p align="center">
+        <a href="https://github.com/lperezmo/high-freq-forex-bot">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        Finds and exploits arbitrage opportunities in the international currency exchange market using high-frequency forex trading.
       </p>
       <p align="center">
         <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"></a>
+        <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"></a>
       </p>
     </td>
   </tr>
