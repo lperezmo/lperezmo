@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Luis Perez Morales&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 96, Total Commits  : 997, Total PRs: 161, Total Issues: 8, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 96, Total Commits  : 997, Total PRs: 161, Total Issues: 9, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.56979634188605;
+        stroke-dashoffset: 84.11101285489387;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >8</text>
+      >9</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >5</text>
+      >6</text>
     </g>
   </g>
     </svg>
