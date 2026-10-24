@@ -1,8 +1,7 @@
 ### About Me
 
 <p align="left">
-  <a href="https://github.com/Lperezmo"><img src="https://img.shields.io/github/followers/Lperezmo?label=Followers&style=flat&color=236ad3" alt="Followers"></a>
-  <a href="https://github.com/Lperezmo"><img src="https://komarev.com/ghpvc/?username=Lperezmo&style=flat&color=blueviolet" alt="Profile views"></a>
+  <a href="https://github.com/lperezmo?tab=followers"><img src="./profile/followers.svg" alt="Followers"></a>
 </p>
 
 Chemist-turned-developer working as Software Developer at **Hess Services Inc.** I build internal tools, ERP integrations, and automation systems for manufacturing environments. My day-to-day spans Python and Rust CLI tools, dashboards, AWS infrastructure, and database work across SQL Server and MySQL.
@@ -57,45 +56,53 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">drone-vantage</h3>
+      <h3 align="center">topic-filter-mod</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/drone-vantage">
+        <a href="https://github.com/lperezmo/topic-filter-mod">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
-        <a href="https://drone-vantage.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
-        </a>
       </p>
       <p align="center">
-        Find the best drone launch spots and where you can legally fly within line of sight. Viewshed over real elevation and satellite tree cover, with FAA airspace ceilings.
-      </p>
-      <p align="center">
-        <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"></a>
-        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
-        <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"></a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">st-custom-static</h3>
-      <p align="center">
-        <a href="https://github.com/lperezmo/st-custom-static">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-        <a href="https://huggingface.co/spaces/lperezmo/st-custom-static">
-          <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=flat&logo=huggingface&logoColor=black">
-        </a>
-      </p>
-      <p align="center">
-        Drop-in replacements for Streamlit's default loading animation. Swap the running man for one of 13 polished alternatives in seconds.
+        Code with Claude without your past life tagging along. Chosen topics become neutral placeholders before Claude reads them; nothing on disk changes.
       </p>
       <p align="center">
         <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
+        <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white"></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">pyofiles</h3>
+      <p align="center">
+        <a href="https://github.com/lperezmo/pyofiles">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        Fast, Rust-powered file operations for Python.
+      </p>
+      <p align="center">
+        <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"></a>
         <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
+        <a href="https://pyo3.rs"><img src="https://img.shields.io/badge/PyO3-Rust%2FPython-000000?style=flat&logo=rust&logoColor=white"></a>
       </p>
     </td>
   </tr>
   <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">clawd-buddy-mod</h3>
+      <p align="center">
+        <a href="https://github.com/lperezmo/clawd-buddy-mod">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        A tiny Clawd and a live dashboard for Claude Code. Watch your limits, your context and your cache without leaving the terminal. Unofficial fan mod.
+      </p>
+      <p align="center">
+        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
+        <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white"></a>
+      </p>
+    </td>
     <td width="33%" valign="top">
       <h3 align="center">streamlit-aggrid-v2</h3>
       <p align="center">
@@ -116,33 +123,22 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">clblast-llama-cpp-python</h3>
+      <h3 align="center">where-was-my-house</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/clblast-llama-cpp-python">
+        <a href="https://github.com/lperezmo/where-was-my-house">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+        <a href="https://wherewasmyhouse.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
         </a>
       </p>
       <p align="center">
-        Guide to compile llama.cpp with CLBlast GPU acceleration for older AMD GPUs lacking ROCm support.
+        Enter an address and see its 540-million-year journey: plate-tectonic drift track, paleolatitude, climate belts and real fossil finds. No API keys.
       </p>
       <p align="center">
-        <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=cplusplus&logoColor=white"></a>
-        <a href="https://github.com/CNugteren/CLBlast"><img src="https://img.shields.io/badge/OpenCL-CLBlast-red?style=flat"></a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">high-freq-forex-bot</h3>
-      <p align="center">
-        <a href="https://github.com/lperezmo/high-freq-forex-bot">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p align="center">
-        Finds and exploits arbitrage opportunities in the international currency exchange market using high-frequency forex trading.
-      </p>
-      <p align="center">
-        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"></a>
+        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
+        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
+        <a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white"></a>
       </p>
     </td>
   </tr>
