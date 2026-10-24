@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - ".github/workflows/readme-cards.yml"
+      - "scripts/badge.py"
   workflow_dispatch:
 
 permissions:
@@ -62,6 +63,13 @@ jobs:
           options: user=${{ github.repository_owner }}&hide_border=true
           path: profile/streak-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Followers badge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          followers=$(gh api "users/${{ github.repository_owner }}" --jq .followers)
+          python3 scripts/badge.py Followers "$followers" "#236ad3" profile/followers.svg
 
       - name: Commit cards
         run: |
