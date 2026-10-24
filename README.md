@@ -40,60 +40,50 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">where-was-my-house</h3>
+      <h3 align="center">st-rsuite</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/where-was-my-house">
+        <a href="https://github.com/lperezmo/st-rsuite">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-        <a href="https://wherewasmyhouse.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
         </a>
       </p>
       <p align="center">
-        Enter an address and see its 540-million-year journey: plate-tectonic drift track, paleolatitude, climate belts and real fossil finds. No API keys.
+        RSuite date and time components for Streamlit. Date pickers, time pickers, and range selectors built with Components v2 (fully open source).
       </p>
       <p align="center">
         <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
-        <a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white"></a>
+        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">drone-vantage</h3>
+      <h3 align="center">topic-filter-mod</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/drone-vantage">
+        <a href="https://github.com/lperezmo/topic-filter-mod">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
-        <a href="https://drone-vantage.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
-        </a>
       </p>
       <p align="center">
-        Find the best drone launch spots and where you can legally fly within line of sight. Viewshed over real elevation and satellite tree cover, with FAA airspace ceilings.
+        Code with Claude without your past life tagging along. Chosen topics become neutral placeholders before Claude reads them; nothing on disk changes.
       </p>
       <p align="center">
-        <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"></a>
-        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
-        <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"></a>
+        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
+        <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white"></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">fire-vantage</h3>
+      <h3 align="center">pyofiles</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/fire-vantage">
+        <a href="https://github.com/lperezmo/pyofiles">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
-        <a href="https://fire-vantage.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
-        </a>
       </p>
       <p align="center">
-        Keyless wildfire situational awareness for the western US: live fire perimeters, terrain, fuel and wind, with client-side spread-risk and escape line-of-sight analysis.
+        Fast, Rust-powered file operations for Python.
       </p>
       <p align="center">
-        <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"></a>
-        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
-        <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"></a>
+        <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"></a>
+        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+        <a href="https://pyo3.rs"><img src="https://img.shields.io/badge/PyO3-Rust%2FPython-000000?style=flat&logo=rust&logoColor=white"></a>
       </p>
     </td>
   </tr>
@@ -133,22 +123,22 @@ Chemist-turned-developer working as Software Developer at **Hess Services Inc.**
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">st-custom-static</h3>
+      <h3 align="center">where-was-my-house</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/st-custom-static">
+        <a href="https://github.com/lperezmo/where-was-my-house">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
         </a>
-        <a href="https://huggingface.co/spaces/lperezmo/st-custom-static">
-          <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=flat&logo=huggingface&logoColor=black">
+        <a href="https://wherewasmyhouse.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
         </a>
       </p>
       <p align="center">
-        Drop-in replacements for Streamlit's default loading animation. Swap the running man for one of 13 polished alternatives in seconds.
+        Enter an address and see its 540-million-year journey: plate-tectonic drift track, paleolatitude, climate belts and real fossil finds. No API keys.
       </p>
       <p align="center">
         <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
+        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
+        <a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white"></a>
       </p>
     </td>
   </tr>
