@@ -6,6 +6,8 @@
 
 Chemist-turned-developer working as Software Developer at **Hess Services Inc.** I build internal tools, ERP integrations, and automation systems for manufacturing environments. My day-to-day spans Python and Rust CLI tools, dashboards, AWS infrastructure, and database work across SQL Server and MySQL.
 
+Outside work I build hobby projects for around the house. Those live at **[lperezmo.github.io](https://lperezmo.github.io)**.
+
 **Background:** Dual B.S. in Chemistry & Mathematics from Linfield College, M.S. in Chemistry from the University of Oregon.
 
 ---
