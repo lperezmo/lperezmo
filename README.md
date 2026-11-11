@@ -97,19 +97,22 @@ Outside work I build hobby projects for around the house. Those live at **[lpere
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">RSuite for Streamlit</h3>
+      <h3 align="center">Fire Vantage</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/st-rsuite">
+        <a href="https://github.com/lperezmo/fire-vantage">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+        <a href="https://fire-vantage.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
         </a>
       </p>
       <p align="center">
-        RSuite date and time components for Streamlit. Date pickers, time pickers, and range selectors built with Components v2 (fully open source).
+        Wildfire situational awareness for the western US: live fire perimeters, terrain, fuel and wind, with spread-risk and escape line-of-sight analysis in the browser. No API keys.
       </p>
       <p align="center">
-        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
+        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
+        <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white"></a>
       </p>
     </td>
   </tr>
