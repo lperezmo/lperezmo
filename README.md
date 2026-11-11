@@ -13,71 +13,57 @@ Outside work I build hobby projects for around the house. Those live at **[lpere
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">st-rsuite</h3>
+      <h3 align="center">Phone Relay</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/st-rsuite">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        <a href="https://lperezmo.github.io/projects/phone-relay/">
+          <img src="https://img.shields.io/badge/How_it_works-9A3B1E?style=flat">
         </a>
       </p>
       <p align="center">
-        RSuite date and time components for Streamlit. Date pickers, time pickers, and range selectors built with Components v2 (fully open source).
+        An Android app that runs an MCP server on the phone itself, so Claude can read the screen, tap, type and answer notifications from anywhere.
       </p>
       <p align="center">
-        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/MCP-D97757?style=flat&logo=claude&logoColor=white">
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">topic-filter-mod</h3>
+      <h3 align="center">Stove Watch</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/topic-filter-mod">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        <a href="https://lperezmo.github.io/projects/stove-watch/">
+          <img src="https://img.shields.io/badge/How_it_works-9A3B1E?style=flat">
         </a>
       </p>
       <p align="center">
-        Code with Claude without your past life tagging along. Chosen topics become neutral placeholders before Claude reads them; nothing on disk changes.
+        A sensor on the side of the fridge that notices a burner left on with nobody around, pushes a photo to my phone, and lets Claude check on it.
       </p>
       <p align="center">
-        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-        <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">pyofiles</h3>
+      <h3 align="center">Fridge Labels</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/pyofiles">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        <a href="https://lperezmo.github.io/projects/fridge-labels/">
+          <img src="https://img.shields.io/badge/How_it_works-9A3B1E?style=flat">
         </a>
       </p>
       <p align="center">
-        Fast, Rust-powered file operations for Python.
+        One tap prints a label with the current date and time, so everything in the fridge and freezer says when it went in or was opened.
       </p>
       <p align="center">
-        <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"></a>
-        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <a href="https://pyo3.rs"><img src="https://img.shields.io/badge/PyO3-Rust%2FPython-000000?style=flat&logo=rust&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white">
       </p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">clawd-buddy-mod</h3>
-      <p align="center">
-        <a href="https://github.com/lperezmo/clawd-buddy-mod">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p align="center">
-        A tiny Clawd and a live dashboard for Claude Code. Watch your limits, your context and your cache without leaving the terminal. Unofficial fan mod.
-      </p>
-      <p align="center">
-        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-        <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white"></a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">streamlit-aggrid-v2</h3>
+      <h3 align="center">AG Grid for Streamlit</h3>
       <p align="center">
         <a href="https://github.com/lperezmo/streamlit-aggrid-v2">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
@@ -96,22 +82,34 @@ Outside work I build hobby projects for around the house. Those live at **[lpere
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">where-was-my-house</h3>
+      <h3 align="center">Clawd Buddy</h3>
       <p align="center">
-        <a href="https://github.com/lperezmo/where-was-my-house">
+        <a href="https://github.com/lperezmo/clawd-buddy-mod">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
-        </a>
-        <a href="https://wherewasmyhouse.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white">
         </a>
       </p>
       <p align="center">
-        Enter an address and see its 540-million-year journey: plate-tectonic drift track, paleolatitude, climate belts and real fossil finds. No API keys.
+        A tiny Clawd and a live dashboard for Claude Code. Watch your limits, your context and your cache without leaving the terminal. Unofficial fan mod.
       </p>
       <p align="center">
         <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-        <a href="https://maplibre.org"><img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white"></a>
-        <a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white"></a>
+        <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white"></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">RSuite for Streamlit</h3>
+      <p align="center">
+        <a href="https://github.com/lperezmo/st-rsuite">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        RSuite date and time components for Streamlit. Date pickers, time pickers, and range selectors built with Components v2 (fully open source).
+      </p>
+      <p align="center">
+        <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
+        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+        <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
       </p>
     </td>
   </tr>
